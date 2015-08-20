@@ -8,6 +8,17 @@ public class TurtleWorld
         Turtle turtle = new Turtle(turtleWorld);
         turtle.setPenColor(Color.RED);
         turtle.penDown();
+        
+        while (degree <= 180)
+        {
+            
+       
+       
+        
         turtle.forward(50);
+        turtle.turn(45);
+        turtle.forward(100);
+        
+       
     }
 }
