@@ -24,7 +24,7 @@ public class TurtleWorld
             connor = connor + 1;
             
         };
-        turtle.turn(90);
+        turtle.turn(94);
         turtle.setPenColor(Color.RED);
         while (connoR <=1000)
         {
@@ -33,7 +33,7 @@ public class TurtleWorld
             connoR = connoR + 1;
             
         };
-        turtle.turn(90);
+        turtle.turn(99);
         turtle.setPenColor(Color.PINK);
         while (Connor <=1000)
         {
@@ -42,7 +42,7 @@ public class TurtleWorld
             Connor = Connor + 1;
             
         };
-        turtle.turn(90);
+        turtle.turn(97);
         turtle.setPenColor(Color.GREEN);
         while (cOnnor <=1000)
         {
