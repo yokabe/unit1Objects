@@ -1,7 +1,7 @@
 #BlueJ package file
 objectbench.height=570
 objectbench.width=1355
-package.editor.height=384
+package.editor.height=360
 package.editor.width=1562
 package.editor.x=-8
 package.editor.y=-8
@@ -49,10 +49,10 @@ target3.typeParameters=
 target3.width=100
 target3.x=100
 target3.y=130
-target4.editor.height=700
+target4.editor.height=1010
 target4.editor.width=900
 target4.editor.x=32
-target4.editor.y=12
+target4.editor.y=0
 target4.height=50
 target4.name=DieSimulator
 target4.naviview.expanded=true
